@@ -1,7 +1,7 @@
 
-### StudyGo 
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logoColor=white"/>
+### StudyGo <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logoColor=white"/>
 golang grammar example  
+
 
 
 Language :  [Go](https://golang.org)  
