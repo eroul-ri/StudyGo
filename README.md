@@ -10,5 +10,9 @@ Documentation : [Go Documentation](https://golang.org/doc)
 ```
 run cmd : go run *.go
 
+```    
+#### STEP
 ```
-
+- ex01 : hello
+- ex02 : variable
+````
