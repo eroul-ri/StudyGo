@@ -14,7 +14,7 @@ var g int = 6
 	- 선언된 변수가 사용되지 않으면 에러
 	- 선언 후 초기화를 하지 않은 경우 "Zero Value" 할당 numeric : 0, bool : false, string : ""
 */
-func main() {
+func varaiable() {
 
 	var i int           // set 0
 	var f float32 = 11. // set

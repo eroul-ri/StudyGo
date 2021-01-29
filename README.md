@@ -15,4 +15,5 @@ run cmd : go run *.go
 ```
 - ex01 : hello
 - ex02 : variable
+- ex03 : datatype
 ````
