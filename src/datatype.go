@@ -1,6 +1,6 @@
 package main
 
-func main() {
+func datatype() {
 	var real bool = true
 	var number int = 0
 	var duble complex64 = 0
